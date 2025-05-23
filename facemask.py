@@ -123,4 +123,4 @@ if __name__ == "__main__":
     print("Model training complete. Run webcam detection? (y/n)")
     choice = input().lower()
     if choice == 'y':
-        start_webcam_detection()
+        start_webcam_detection()     ss
